@@ -1,0 +1,9 @@
+pytest
+requests
+python-dotenv
+
+psycopg2-binary
+sqlalchemy
+sqlmodel
+playwright==1.46.0
+faker
